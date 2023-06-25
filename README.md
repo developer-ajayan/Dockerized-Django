@@ -1,3 +1,4 @@
+![screenshot](https://github.com/developer-ajayan/Dockerized-Django/blob/main/dockerized%20Django.png)
 ### Why Dockerized Django?
 ----
 
